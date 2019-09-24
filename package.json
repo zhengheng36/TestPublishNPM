@@ -1,0 +1,19 @@
+{
+  "name": "az-console-header",
+  "version": "1.0.0",
+  "description": "az testing publish package on NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengheng36/TestPublishNPM.git"
+  },
+  "author": "Aaron Zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengheng36/TestPublishNPM/issues"
+  },
+  "homepage": "https://github.com/zhengheng36/TestPublishNPM#readme"
+}
