@@ -1,6 +1,6 @@
 {
   "name": "az-console-header",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "az testing publish package on NPM",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhengheng36/TestPublishNPM/issues"
   },
-  "homepage": "https://github.com/zhengheng36/TestPublishNPM#readme"
+  "homepage": "https://github.com/zhengheng36/TestPublishNPM#readme",
+  "dependencies": {
+    "@zhengheng36/az-console-header": "^1.0.0"
+  }
 }
