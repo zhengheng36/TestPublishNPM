@@ -1,4 +1,4 @@
 'use strict'
 
-module.exports = console.log(`AZ: ${x}`);
+module.exports = x => console.log(`AZ: ${x}`);
 

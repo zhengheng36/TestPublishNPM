@@ -1,6 +1,6 @@
 {
   "name": "az-console-header",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "az testing publish package on NPM",
   "main": "index.js",
   "scripts": {
