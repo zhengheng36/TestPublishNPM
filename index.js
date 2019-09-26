@@ -1,6 +1,4 @@
 'use strict'
 
-module.exports = function(x){
-    console.log(`AZ: ${x}`);
-}
+module.exports = console.log(`AZ: ${x}`);
 
